@@ -8,7 +8,7 @@ console.log(typeof(num));
 num=false;
 console.log(num);
 console.log(typeof(num));
-num="Rishika";
+num="Rishika singh ";
 console.log(num);
 console.log(typeof(num));
 num=null;
